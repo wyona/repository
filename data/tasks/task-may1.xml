@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<task xmlns="http://www.wyona.org/erp/task/1.0">
+<description>
+Write a task manager interface for Open Source projects
+</description>
+
+<project id="wyona-may"/>
+
+<type id="cr"/>
+
+<priority id="normal"/>
+
+<status id="wip"/>
+
+<reporter id="michi"/>
+
+<owner id="michi"/>
+
+</task>
