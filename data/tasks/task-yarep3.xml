@@ -7,7 +7,7 @@ Write YarepFactoryGenerator to show all repositories and entry points
 
 <project id="yarep"/>
 
-<type id="bug"/>
+<type id="enhancement"/>
 
 <priority id="high"/>
 
