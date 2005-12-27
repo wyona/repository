@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<task xmlns="http://www.wyona.org/erp/task/1.0">
+<description>
+Write an XSLT transforming the collection XML into a "path" XML
+</description>
+
+<project id="yarep"/>
+
+<type id="enhancement"/>
+
+<priority id="normal"/>
+
+<status id="wip"/>
+
+<reporter id="michi"/>
+
+<owner id="michi"/>
+
+</task>
