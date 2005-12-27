@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<task xmlns="http://www.wyona.org/erp/task/1.0">
+<description>
+Write a Mozilla Mail extension, such that Attachments can be "filed to May", e.g. right click on attachment and
+instead of "save as" one would have "file to project" or something similar
+</description>
+
+<project id="wyona-may"/>
+
+<type id="cr"/>
+
+<priority id="normal"/>
+
+<status id="wip"/>
+
+<reporter id="michi"/>
+
+<owner id="michi"/>
+
+</task>
