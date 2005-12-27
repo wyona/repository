@@ -11,7 +11,7 @@ Write YarepFactoryGenerator to show all repositories and entry points
 
 <priority id="high"/>
 
-<status id="wip"/>
+<status id="done"/>
 
 <reporter id="michi"/>
 
